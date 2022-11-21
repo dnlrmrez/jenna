@@ -1,0 +1,3 @@
+keep features and predictions of true and false positives for metrics and possible new trainings
+
+when mic is listening, scan for root mean square of .5 second exceeding a threshold
